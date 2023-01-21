@@ -1,6 +1,6 @@
-# 💻React Exercises💻
+# 💻React Exercise: Calculator💻
 
-Some small and easy exercises to learn React.js.
+Some small and easy exercise to learn React.js.
 
 
 ## ⚙️ How Install This Project
